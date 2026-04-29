@@ -40,8 +40,8 @@ When paired with an [openInk Cloud](https://openink.isitzoe.dev) instance (also 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/einkshenanigans.git
-cd einkshenanigans
+git clone https://github.com/justdanielndev/openink/
+cd openink
 ```
 
 ### 2. Setup Screenshot Service
